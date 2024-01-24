@@ -20,6 +20,16 @@ public class HiFour {
 		//
 		// Say hello to the names in s0 through s3.
 		//
-
+System.out.print("Hello");
+System.out.print(" ");
+System.out.print(s0);
+System.out.print(" ");
+System.out.print(s1);
+System.out.print(" ");
+System.out.print(s2);
+System.out.print(" ");
+System.out.print("and");
+System.out.print(" ");
+System.out.print(s3);
 	}
 }
